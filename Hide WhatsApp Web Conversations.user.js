@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide WhatsApp Web Conversations
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Hide WhatsApp conversations panel on WhatsApp Web
 // @author       Pedro Neto
 // @match        https://web.whatsapp.com/

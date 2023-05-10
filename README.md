@@ -61,7 +61,10 @@ Chats are loaded hidden (not blur, only hide). A icon appear to show or hide all
 ## Installation
 
 * [Download Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt) (It should work on Greasemonkey too, but tested only in Tampermonkey)
-* Click on "Install" Button above (install screen will appear only if you have Tampermonkey installed on your browser)
+
+Now, choose one of following install methods
+
+* Click on "Install" Button above (Recomended. Install screen will appear only if you have Tampermonkey installed on your browser)
 
 OR...
 

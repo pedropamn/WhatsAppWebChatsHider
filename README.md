@@ -45,6 +45,8 @@
 <!-- ABOUT THE PROJECT -->
 ## In Action
 
+Chats are loaded hidden (not blur, only hide)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/pedropamn/hidewachats/main/wahide.gif" width="100%" />
 </div>

@@ -33,9 +33,9 @@
     A Userscript to hide your conversations while opening WhatsApp Web in front of others. Take care your privacy!
    </p> 
     ·
-    <a href="https://github.com/pedropamn/HideWhatsAppWebChats/issues">Report a  Bug</a>
+    <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">Report a  Bug</a>
     ·
-    <a href="https://github.com/pedropamn/HideWhatsAppWebChats/issues">Suggest a feature</a>
+    <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">Suggest a feature</a>
  
 </div>
 

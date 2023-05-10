@@ -32,7 +32,8 @@
   <p align="center">
     A Userscript to hide your conversations while opening WhatsApp Web in front of others. Take care your privacy!
    </p> 
-    ·
+    <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/raw/main/Hide%20WhatsApp%20Web%20Conversations.user.js"><img width="300" src="https://t4.ftcdn.net/jpg/00/15/08/29/360_F_15082962_hFK4ZWGDxR1N0EfG0bFNTipnRVMgnBqL.jpg" /></a>
+    
     <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">Report a  Bug</a>
     ·
     <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">Suggest a feature</a>
@@ -60,7 +61,16 @@ Chats are loaded hidden (not blur, only hide). A icon appear to show or hide all
 ## Installation
 
 * Download Tampermonkey (It should work on Greasemonkey too, but tested only in Tampermonkey)
-* Add a new script and paste the content of Hide WhatsApp Web Conversations.user.js or Drag and Drop the file inside Tampermonkey Script screen
+* Click on "Install" Button above 
+
+OR...
+
+* Add a new script in Tampermonkey and paste the content of ```Hide WhatsApp Web Conversations.user.js``` 
+
+OR...
+
+* Drag and Drop the file ```Hide WhatsApp Web Conversations.user.js``` inside Tampermonkey Script screen
+
 * Load WhatsApp Web and enjoy!
 
 ### Built with

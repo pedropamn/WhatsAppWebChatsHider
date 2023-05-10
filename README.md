@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## In Action
 
-Chats are loaded hidden (not blur, only hide)
+Chats are loaded hidden (not blur, only hide). A icon appear to show or hide all your conversations
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pedropamn/hidewachats/main/wahide.gif" width="100%" />

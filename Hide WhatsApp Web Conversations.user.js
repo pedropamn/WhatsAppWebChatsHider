@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         Hide WhatsApp Web Conversations
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Hide WhatsApp conversations panel on WhatsApp Web
 // @author       Pedro Neto
 // @match        https://web.whatsapp.com/
 // @icon         https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://web.whatsapp.com/&size=128
 // @grant        none
 // @require https://code.jquery.com/jquery-3.6.4.min.js
-// @website https://github.com/pedropamn/hidewaconversations
+// @website https://github.com/pedropamn/WhatsAppWebChatsHider
+// @downloadURL https://github.com/pedropamn/WhatsAppWebChatsHider/raw/main/Hide%20WhatsApp%20Web%20Conversations.user.js
 // ==/UserScript==
 
 (function() {

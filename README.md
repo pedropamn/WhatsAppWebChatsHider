@@ -57,7 +57,11 @@ Chats are loaded hidden (not blur, only hide). A icon appear to show or hide all
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Installation
 
+* Download Tampermonkey (It should work on Greasemonkey too, but tested only in Tampermonkey)
+* Add a new script and paste the content of Hide WhatsApp Web Conversations.user.js or Drag and Drop the file inside Tampermonkey Script screen
+* Load WhatsApp Web and enjoy!
 
 ### Built with
 

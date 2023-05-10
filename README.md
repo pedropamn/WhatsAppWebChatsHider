@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pedropamn/hidewachats/main/wahide.png" alt="Logo" width="300" height="180">
+    <img src="https://raw.githubusercontent.com/pedropamn/WhatsAppWebChatsHider/main/wahide.png" alt="Logo" width="180" height="180">
 
 
   <h1 align="center">WhatsApp Web Chats Hider</h1>

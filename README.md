@@ -46,7 +46,7 @@
 ## In Action
 
 <div align="center">
-  <img src="https://github.com/pedropamn/hidewachats/blob/main/wahide.gif?raw=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/pedropamn/hidewachats/main/wahide.gif" width="100%" />
 </div>
 
 <br><br>

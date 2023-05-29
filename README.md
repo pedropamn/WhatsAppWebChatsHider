@@ -90,6 +90,7 @@ OR...
 
 - [x] First version
 - [ ] Options to hide or only blur
+- [ ] Show private chats/groups only on search
 
 
 

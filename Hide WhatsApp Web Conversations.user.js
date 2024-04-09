@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide WhatsApp Web Conversations
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Hide WhatsApp conversations panel on WhatsApp Web
 // @author       Pedro Neto
 // @match        https://web.whatsapp.com/
@@ -24,7 +24,7 @@
         //When visible, insert the icon
         if(panel){
             var html = '<img class="hide_conversations" src="https://cdn-icons-png.flaticon.com/512/2767/2767146.png" style=" width: 26px;    padding-right: 8px;    padding-top: 1px;    vertical-align: middle;    margin: auto; cursor:pointer;">';
-            $('._2XdMx').append(html);
+            $('._ajv7').eq(3).after(html);
 
             //Starts hided
             $('#pane-side').hide();

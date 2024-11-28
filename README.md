@@ -87,7 +87,7 @@ OR...
 <!-- IT'S NOT WORKING -->
 ## It's not working. Why?
 
-WhatsApp Web changes it's DOM periodically and not always I notice it in a timely manner. If something is not working for you, please <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">open an issue</a>. If you know where is the problem in DOM, feel free to <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">submit a pull request</a>
+WhatsApp Web changes it's DOM periodically and not always I notice it in a timely manner. If something is not working for you, please <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/issues">open an issue</a>. If you know where is the problem in DOM, feel free to <a href="https://github.com/pedropamn/WhatsAppWebChatsHider/pulls">submit a pull request</a>
 
 <!-- ROADMAP -->
 ## Roadmap
